@@ -1,0 +1,8 @@
+The is the main text
+Do you like programming ?
+If yes, you should be interesting by github to manage your code versions.
+I would is github with:
+1/ A main branch
+2/ A beta branch
+3/ Several branchs below the beta to develop beta brnach functionnalities. After testing those branch could be integrated into the main branch.
+Let's try if it works !
