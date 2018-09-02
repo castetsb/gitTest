@@ -7,6 +7,8 @@ I would is github with:
 3/ Several branchs below the beta to develop beta brnach functionnalities. After testing those branch could be integrated into the main branch.
 Let's try if it works !
 
+Inform the project manager when you want to merge a branch.
+
 Function 1:
 Details
 
